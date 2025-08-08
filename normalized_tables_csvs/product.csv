@@ -1,0 +1,8 @@
+product_item_id,product_description,item_type_id,unit_id
+1000,Bennet Farm free-range eggs,100,100
+1100,Freshness White beans,101,101
+1222,Freshness Green beans,101,101
+1223,Freshness Green beans,101,102
+1224,Freshness Wax beans,101,101
+2000,Ruby's Kale,102,103
+2001,Ruby's Organic Kale,102,103
