@@ -82,5 +82,5 @@ Samuel Akuffo
 
 ---
 
-*This project was developed as part of my <a href="https://kwamesa.github.io/portfolio/index.html" _blank" rel="noopener noreferrer">portfolio</a> to showcase backend data engineering skills including data cleaning, normalization, and SQL querying.*
+*This project was developed as part of my <a href="https://kwamesa.github.io/portfolio/index.html" target="_blank" rel="noopener noreferrer">portfolio</a> to showcase backend data engineering skills including data cleaning, normalization, and SQL querying.*
 
